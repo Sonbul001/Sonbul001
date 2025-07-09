@@ -1,10 +1,10 @@
 # 💫 About Me:
 👨‍🎓Software Engineer based in Warsaw, Poland, with a Bachelor's degree from Cairo University and a Master's Degree from Warsaw University of Technology.<br>
 ❤️Passionate about Web Development and Artificial Intelligence with proven records of successful university projects and studies in the area of Software Engineering.<br>
-🤓Skilled in PHP, Laravel, Postgresql, vueJS, React, HTML5, CSS3, JS, Angular, Java Spring Boot, MySQL, C++, Java, Python, Prolog, REST API, SQL, OOP, Design Patterns. <br>
-🧑‍💻Highly driven and motivated to learn ,grow and ready to take on complex challenges and join exciting projects.<br>
-📖Delivered many projects using backend solutions such as Laravel and Nodejs, as well as frontend solutions such as VueJS and React. Currently working on a personal project using Laravel, VueJS and postgresql that should elevate my skills to a whole new level<br>
-🔥Worked on software development projects using different methodologies such as Agile and Waterfall methodology.
+🤓Skilled in PHP, Laravel, Postgresql, VueJS, React, HTML5, CSS3, JS, Angular, Java Spring Boot, MySQL, C++, Java, Python, Prolog, REST API, SQL, OOP, Design Patterns. <br>
+🧑‍💻Highly driven and motivated to learn, grow, and ready to take on complex challenges and join exciting projects.<br>
+📖Delivered many projects using backend solutions such as Laravel and Nodejs, as well as frontend solutions such as VueJS and React. Currently working on a personal project using Laravel, VueJS, and PostgreSQL that should elevate my skills to a whole new level<br>
+🔥Worked on software development projects using different methodologies such as Agile and Waterfall methodologies.
 
 
 ## 🌐 Socials:
