@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓Software Engineer with a Bachelor's degree from Cairo University and a Masters Degree from Warsaw University of Technology.<br>
+👨‍🎓Software Engineer based in Warsaw, Poland, with a Bachelor's degree from Cairo University and a Master's Degree from Warsaw University of Technology.<br>
 ❤️Passionate about Web Development and Artificial Intelligence with proven records of successful university projects and studies in the area of Software Engineering.<br>
 🤓Skilled in PHP, Laravel, Postgresql, vueJS, React, HTML5, CSS3, JS, Angular, Java Spring Boot, MySQL, C++, Java, Python, Prolog, REST API, SQL, OOP, Design Patterns. <br>
 🧑‍💻Highly driven and motivated to learn ,grow and ready to take on complex challenges and join exciting projects.<br>
